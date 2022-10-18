@@ -1,5 +1,6 @@
 import pytest
-
+import sys
+sys.path.append('.')
 from simple_functions import my_sum, factorial
 
 

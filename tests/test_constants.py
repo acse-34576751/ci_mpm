@@ -1,5 +1,6 @@
 import numpy as np
-
+import sys
+sys.path.append('.')
 from simple_functions import pi
 
 
